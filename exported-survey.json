@@ -227,7 +227,8 @@
         {
           "description": "Choose as many as you like", 
           "field_data": {
-            "display_type": "radio", 
+            "max_choices": null, 
+            "min_choices": null, 
             "options": [
               {
                 "option": "No documentation"
@@ -265,52 +266,18 @@
               {
                 "option": "Other"
               }
-            ], 
-            "radio_display_type": "vertical"
+            ]
           }, 
-          "field_type": "single_choice", 
+          "field_type": "multiselect", 
           "is_required": true, 
           "title": "How do you document your code?", 
           "type": "question"
         }, 
         {
-          "description": "(Choose as many as you like)", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "CMake"
-              }, 
-              {
-                "option": "Makefiles"
-              }, 
-              {
-                "option": "SCons"
-              }, 
-              {
-                "option": "Autotools"
-              }, 
-              {
-                "option": "None, but I want to learn"
-              }, 
-              {
-                "option": "Not relevant to my project(s)"
-              }, 
-              {
-                "option": "Other"
-              }
-            ], 
-            "radio_display_type": "vertical"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Which build tool(s) are you using or will you use in your project(s)?", 
-          "type": "question"
-        }, 
-        {
           "description": "Choose as many as you like", 
           "field_data": {
-            "display_type": "radio", 
+            "max_choices": null, 
+            "min_choices": null, 
             "options": [
               {
                 "option": "I'm not using a web-based repository"
@@ -333,10 +300,9 @@
               {
                 "option": "Other"
               }
-            ], 
-            "radio_display_type": "vertical"
+            ]
           }, 
-          "field_type": "single_choice", 
+          "field_type": "multiselect", 
           "is_required": true, 
           "title": "Are you using a web-based repository for your code(s)? Which ones?", 
           "type": "question"
@@ -409,7 +375,7 @@
             "radio_display_type": "horizontal"
           }, 
           "field_type": "single_choice", 
-          "is_required": false, 
+          "is_required": true, 
           "title": "Are you using an integrated development environment (IDE) for your programming project(s)?", 
           "type": "question"
         }, 
@@ -556,9 +522,10 @@
           "type": "question"
         }, 
         {
-          "description": "We ask this because we are not sure which audience we get and we try to adapt the schedule to the audience. We will try to reduce topics that are not relevant to the audience and present more of the topics which are most interesting to the audience.", 
+          "description": "We ask this because we are not sure which audience we get and we try to adapt the schedule to the audience. We will try to reduce topics that are not relevant to the audience and present more of the topics which are most interesting to the audience. Choose as many as you like", 
           "field_data": {
-            "display_type": "radio", 
+            "max_choices": null, 
+            "min_choices": null, 
             "options": [
               {
                 "option": "Introduction to version control"
@@ -596,10 +563,9 @@
               {
                 "option": "Reproducible research"
               }
-            ], 
-            "radio_display_type": "vertical"
+            ]
           }, 
-          "field_type": "single_choice", 
+          "field_type": "multiselect", 
           "is_required": false, 
           "title": "Please select the sessions that you are most interested in.", 
           "type": "question"
