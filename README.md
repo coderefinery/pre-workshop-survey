@@ -26,6 +26,10 @@ The main results are reported in the figures below.
 
 ![Gender](img/gender.png)    
 
+#### Scientific discipline
+
+![Gender](img/scientific-discipline-1.png)    
+
 #### Operating system
 
 ![OS](img/operatingsystems.png)    
