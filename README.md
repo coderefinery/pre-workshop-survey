@@ -28,7 +28,7 @@ The main results are reported in the figures below.
 
 #### Scientific discipline
 
-![Gender](img/scientific-discipline-1.png)    
+![Gender](img/scientific-discipline.png)
 
 #### Operating system
 
