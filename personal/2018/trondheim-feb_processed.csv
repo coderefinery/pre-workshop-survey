@@ -1,23 +1,23 @@
-,Gender
-0,Female
-1,Male
-2,Female
-3,Male
-4,Male
-5,Male
-6,Female
-7,Male
-8,Male
-9,Female
-10,Male
-11,Male
-12,Female
-13,Male
-14,Male
-15,Female
-16,Male
-17,Male
-18,Female
-19,Male
-20,Female
-21,Male
+,Gender,Affiliation
+0,Female,"EPT, Programme for Industrial Ecology"
+1,Male,IndEcol
+2,Female,"Kavli Institute for Neuroscience, NTNU"
+3,Male,NTNU
+4,Male,NTNU CASA
+5,Male,"Kavli Institute, NTNU"
+6,Female,"CEMIR, IKOM, NTNU"
+7,Male,"University of Copenhagen, Niels Bohr Institute"
+8,Male,"Industrial Ecology programme, NTNU"
+9,Female,Uppsala University
+10,Male,NTNU industrial Ecology
+11,Male,University of Bergen
+12,Female,NTNU
+13,Male,"NTNU, Dep. of Energy and Process Engineering "
+14,Male,NTNU - Program for Industrial Ecology
+15,Female,"Industrial Ecology Programme, EPT, NTNU"
+16,Male,NTNU - Industrial Ecology Programme
+17,Male,Industrial Ecology
+18,Female,"NTNU, industriell økologi"
+19,Male,"Industrial Ecology Programme, NTNU"
+20,Female,"Industrial Ecology Programme, NTNU"
+21,Male,"Industrial Ecology Programme, Department of Energy and Process Engineering, NTNU"

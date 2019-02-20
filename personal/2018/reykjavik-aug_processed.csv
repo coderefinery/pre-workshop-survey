@@ -1,27 +1,27 @@
-,Gender
-0,Female
-1,Female
-2,Male
-3,Male
-4,Male
-5,Male
-6,Male
-7,Male
-8,Male
-9,Male
-10,Male
-11,Male
-12,Male
-13,Male
-14,Female
-15,Male
-16,Male
-17,Male
-18,Male
-19,Male
-20,Male
-21,Female
-22,Male
-23,Male
-24,Male
-25,Female
+,Gender,Affiliation
+0,Female,"Precis Digital, Stockholm"
+1,Female,Háskóli Íslands
+2,Male,University of Iceland
+3,Male,Marine and Freshwater Research Institute
+4,Male,MSc student at ETH Zürich
+5,Male,University of Iceland
+6,Male,University of Iceland
+7,Male,DevOps at Icelandic Meteorological Office
+8,Male,Icelandic Meteorological Office
+9,Male,Icelandic Met Office
+10,Male,University of Iceland
+11,Male,Reykjavik University
+12,Male,"Sigríður Rut Franzdóttir (Líf- og Umhverfisvísindadeild, Háskóli Íslands)"
+13,Male,"University of Iceland, Institute of Life and Environmental Sciences"
+14,Female,University of Iceland
+15,Male,University of Iceland
+16,Male,Landsvirkjun 
+17,Male,University of Iceland
+18,Male,University of Iceland
+19,Male,"Physics Department, University of Iceland"
+20,Male,University of Iceland
+21,Female,University of Iceland and Matís
+22,Male,Linne Flow Centre (KTH Mechanics)
+23,Male,"KTH, Royal Institute of Technology, Sweden"
+24,Male,University of Iceland
+25,Female,University of Iceland

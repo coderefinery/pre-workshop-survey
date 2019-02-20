@@ -1,26 +1,26 @@
-,Gender
-0,Female
-1,Male
-2,Male
-3,Male
-4,Female
-5,Female
-6,Male
-7,Male
-8,Female
-9,Male
-10,Female
-11,Male
-12,Male
-13,Female
-14,Male
-15,Male
-16,Male
-17,Male
-18,Male
-19,Female
-20,Female
-21,Male
-22,Female
-23,Male
-24,Male
+,Gender,Affiliation
+0,Female,"Quatum dynamics, Department of applied physics, Aalto university"
+1,Male,National Library of Finland / University of Helsinki
+2,Male,Aalto University 
+3,Male,Aalto University
+4,Female,"University of Helsinki, Institute of Behavioural Sciences"
+5,Female,Arcada
+6,Male,Finnish Red Cross - Blood Service
+7,Male,FIMM - University of Helsinki
+8,Female,"Aalto University, Computer Science"
+9,Male,Aalto University
+10,Female,University of Helsinki
+11,Male,"Isaac Salazar group, Biotechnology Institute, Helsinki University"
+12,Male,University of Helsinki
+13,Female,"Computational Systems Medicine, Institute for Molecular Medicine, Finland, University of Helsinki."
+14,Male,"CSC, Espoo, Finland"
+15,Male,"HIIT, Dep. of CS, Aalto & University of Helsinki"
+16,Male,"Kari Majamaa's research group,Neurology, University of Oulu."
+17,Male,"Bio-Aivoitus, -- self employed"
+18,Male,"Department of Communications and Networking,, School of Electrical Engineering,, Aalto University."
+19,Female,University of Helsinki
+20,Female,University of Helsinki
+21,Male,Institute for Molecular Medicine Finland (FIMM) / University of Helsinki
+22,Female,"Aalto University, Department of Applied Physics"
+23,Male,TUT DEE
+24,Male,"Lappeenranta University of Technology,"

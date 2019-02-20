@@ -1,49 +1,49 @@
-,Gender
-0,Male
-1,Male
-2,Female
-3,Male
-4,Female
-5,Female
-6,Male
-7,Male
-8,Male
-9,Male
-10,Male
-11,Female
-12,Female
-13,Male
-14,Male
-15,Male
-16,Male
-17,Female
-18,Male
-19,Female
-20,Female
-21,Female
-22,Prefer not to say
-23,Male
-24,Male
-25,Male
-26,Female
-27,Male
-28,Male
-29,Male
-30,Male
-31,Female
-32,Male
-33,Male
-34,Male
-35,Male
-36,Male
-37,Prefer not to say
-38,Male
-39,Male
-40,Female
-41,Male
-42,Male
-43,Female
-44,Female
-45,Male
-46,Female
-47,Female
+,Gender,Affiliation
+0,Male,Aalto University
+1,Male,Aalto University
+2,Female,"Trainee at CSC, Student at University of Jyväskylä"
+3,Male,Aalto University
+4,Female,"Computer Science Departement, PML group"
+5,Female,Doctoral Candidate
+6,Male,"Aalto University, Antimatter and Nuclear Engineering"
+7,Male,Aalto CS
+8,Male,Aalto University
+9,Male,"Aalto university, Probabilistic Machine Learning group"
+10,Male,"Department of Applied Physics, Aalto University"
+11,Female,"Aalto University, Perustieteiden korkeakoulu, Tietotekniikan laitos"
+12,Female,CSC
+13,Male,"Department of computer science, Aalto university"
+14,Male,"Department of Computer Science, Aalto University"
+15,Male,Aalto University
+16,Male,"Probabilistic Machine Learning Group, Department of Computer Science, School of Science, Aalto Univversity"
+17,Female,"Department of Mathematics and Statistics, University of Helsinki"
+18,Male,"Department of Applied Physics, Aalto Univeristy"
+19,Female,"Aalto University, NBE, Brain and Mind Lab, Master's thesis writer"
+20,Female,Aalto University
+21,Female,Aalto University 
+22,Prefer not to say,"Antimatter and Nuclear Engineering, Engineering Physics, Aalto University"
+23,Male,"SCI, CS Department, Aalto University"
+24,Male,University of Jyväskylä
+25,Male,Aalto University
+26,Female,"Computer Science, Aalto University"
+27,Male,Aalto University
+28,Male,"Aalto SCI, NBE"
+29,Male,"Department of Computer Science, Aalto University"
+30,Male,Aalto University
+31,Female,"Cognitive Brain Research Unit, University of Helsinki "
+32,Male,Aalto University 
+33,Male,Aalto
+34,Male,Aalto University 
+35,Male,Aalto CS & HIIT
+36,Male,"Aalto University, Dept of Neuroscience and Biomedical Engineering, NIMEG group "
+37,Prefer not to say,Aalto university/NBE
+38,Male,"Aalto University, school of Science,NBE department "
+39,Male,"Department of Mathematics and Systems Analysis, Aalto University"
+40,Female,"PhD student at Electronic properties of materials (EPM) group, Department of Applied Physics, Aalto University"
+41,Male,NBE
+42,Male,Aalto University / NBE
+43,Female,Aalto University and Chalmers University of Technology
+44,Female,Aalto University
+45,Male,Aalto University
+46,Female,Aalto University
+47,Female,"Complex systems group, CS, Aalto"

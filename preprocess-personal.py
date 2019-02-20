@@ -18,7 +18,7 @@ for f in glob.glob(personal+'/20*/*.csv'):
 # then indico data
 personal = "personal_indico/"
 years = [2018]
-cols_to_rm = ['ID', 'Name', 'Email Address', 'Registration date', 'Registration state']
+cols_to_rm = ['ID', 'Name', 'Email Address', 'Registration date', 'Registration state', 'Title']
 
 dfs = []
 keys = []

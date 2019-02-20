@@ -1,43 +1,43 @@
-,Gender
-0,Male
-1,Female
-2,Male
-3,Male
-4,Female
-5,Male
-6,Male
-7,Male
-8,Female
-9,Prefer not to say
-10,Male
-11,Male
-12,Female
-13,Male
-14,Male
-15,Female
-16,Female
-17,Male
-18,Female
-19,Male
-20,Female
-21,Female
-22,Female
-23,Male
-24,Male
-25,Male
-26,Male
-27,Female
-28,Male
-29,Female
-30,Male
-31,Female
-32,Female
-33,Male
-34,Female
-35,Female
-36,Male
-37,Male
-38,Male
-39,Female
-40,Male
-41,Female
+,Gender,Affiliation
+0,Male,"UiO, MatNat, Geofag"
+1,Female,"Lie group, Department of Medical Genetics, Oslo University Hospital"
+2,Male,OUS / UiO
+3,Male,MetOs
+4,Female,"Institute for Cancer Research, OUH"
+5,Male,"Institute of Theoretical Astrophysics, University of Oslo"
+6,Male,Institute of Theoretical Astrophysics 
+7,Male,"Computational Biology and Gene Regulation Group, NCMM"
+8,Female,University of Oslo
+9,Prefer not to say,Radiumhospitalet
+10,Male,University of Oslo
+11,Male,IBV
+12,Female,NIVA
+13,Male,"Department of Informatics, University of Oslo,Norway"
+14,Male,USIT/Oslo University
+15,Female,Folkehelseinstituttet
+16,Female,"Clinical Genomics, SciLifeLab Stockholm"
+17,Male,University of Sofia
+18,Female,OsloMet - Metropolitan University 
+19,Male,"Department of Psychology, University of Oslo"
+20,Female,"Department of medical genetics, OUS"
+21,Female,"NMBU,  Oslo"
+22,Female,ITS
+23,Male,IFI
+24,Male,University of Oslo
+25,Male,UiO
+26,Male,University of Oslo
+27,Female,Centre for Educational Measurement at the University of Oslo
+28,Male,"Department of Meteorology MISU, Stockholm University"
+29,Female,Ifi
+30,Male,IBV at UiO
+31,Female,"MetOs, Department og Geosciences, University of Oslo"
+32,Female,Department of Informatics
+33,Male,University of Oslo
+34,Female,University of Oslo
+35,Female,UiO
+36,Male,ND at Simula and IFI
+37,Male,Umeå University
+38,Male,KTH
+39,Female,"Department of biosciences , University of Oslo."
+40,Male,Fraunhofer
+41,Female,"Mathematics, University of Oslo"

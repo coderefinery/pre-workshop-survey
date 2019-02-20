@@ -1,28 +1,28 @@
-,Gender
-0,Male
-1,Male
-2,Male
-3,Male
-4,Female
-5,Male
-6,Male
-7,Male
-8,Male
-9,Male
-10,Female
-11,Male
-12,Male
-13,Male
-14,Male
-15,Male
-16,Female
-17,Male
-18,Male
-19,Female
-20,Male
-21,Male
-22,Male
-23,Male
-24,Male
-25,Male
-26,Male
+,Gender,Affiliation
+0,Male,"iNANO, Aarhus University"
+1,Male,"CP3-Origins, SDU"
+2,Male,Swedish Meteorological and Hydrological Institute (SMHI)
+3,Male,"Aarhus University, Arts Faculty"
+4,Female,AU/phys
+5,Male,"CP3-Origins, University of Southern Denmark"
+6,Male,"Phd Student, SDU, Odense"
+7,Male,Department of physics and astronomy
+8,Male,"Department of Biomedicine, Aarhus University"
+9,Male,"Biomedicine, Aarhus University"
+10,Female,"Department of Biomedcine, Aarhus University"
+11,Male,"Dept. of Biomedicine, AU"
+12,Male,"Aarhus University, Department of Political Science"
+13,Male,ECON
+14,Male,"Group of Prof. Lars B. Madsen Department of Physics and Astronomy, AU."
+15,Male,SMHI/Rossby Centre
+16,Female,Lund University - Particle Physics Department
+17,Male,Physics and Astronomy
+18,Male,Aarhus University
+19,Female,"Department of Physics and Astronomy, Aarhus University"
+20,Male,"Aarhus University, Physics and Astronomy Department"
+21,Male,"Lars Bojer Madsens group, IFA, AU"
+22,Male,Aarhus University
+23,Male,"Department of Physics and Astronomy, Aarhus University"
+24,Male,"Department of Physics and Astronomy, Aarhus University"
+25,Male,"PhD Fellow at institut for Economy, Aarhus University"
+26,Male,AU

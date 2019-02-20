@@ -1,23 +1,23 @@
-,Gender
-0,Male
-1,Male
-2,Male
-3,Male
-4,Male
-5,Female
-6,Male
-7,Male
-8,Male
-9,Male
-10,Male
-11,Prefer not to say
-12,Female
-13,Male
-14,Female
-15,Prefer not to say
-16,Male
-17,Male
-18,Male
-19,Male
-20,Male
-21,Male
+,Gender,Affiliation
+0,Male,"Application Expert, NSC"
+1,Male,"Linköping University, IFM, theory and modeling group"
+2,Male,"NSC, Linköping University"
+3,Male,"NSC, Linköping"
+4,Male,"Ifm, Linköping University"
+5,Female,Stockholm university
+6,Male,Institutet för rymdfysik
+7,Male,Karolinska Institutet
+8,Male,Karolinska Institutet
+9,Male,IFM
+10,Male,Linköping University
+11,Prefer not to say,Linköpings univerity
+12,Female,Western Norway University of Applied Sciences
+13,Male,"Theoretical Physics, Linköping University"
+14,Female,Stockholm University
+15,Prefer not to say,SMHI
+16,Male,Rossby Centre
+17,Male,"Bioinformatiksavdelningen, Linköpings Universitet"
+18,Male,IFM
+19,Male,Linköping University
+20,Male,LiU IFM
+21,Male,Linköping University
