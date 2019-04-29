@@ -10,6 +10,8 @@ The survey includes among others the following questions:
 - What operating system do you use?
 - What is your programming experience? 
 - Do you use version control?
+- Do you use code review?
+- Do you use automated testing?
 - What is your preferred programming language?
 - How do you document your code?
 
@@ -32,7 +34,7 @@ The main results are reported in the figures below.
 
 #### Operating system
 
-![OS](img/operatingsystems.png)    
+![OS](img/operating-system.png)    
 
 #### Version control
 
@@ -46,6 +48,12 @@ The main results are reported in the figures below.
 
 #### Documentation
 ![documentation](img/documentation.png)    
+
+#### Automated testing
+![documentation](img/automated-testing.png)    
+
+#### Code review
+![documentation](img/code-review.png)    
 
 
 
