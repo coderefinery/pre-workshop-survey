@@ -15,7 +15,14 @@ The survey includes among others the following questions:
 - What is your preferred programming language?
 - How do you document your code?
 
+## License conditions
+This work is licensed under CC 4.0 BY, see the file LICENSE
 
+### Attribution
+When using the data from the CodeRefinery post-workshop survey, please state following attribution:
+"Post-workshop survey" by [CodeRefinery](https://coderefinery.org) is licensed under CC BY 4.0
+
+## Processing steps
 [A script](preprocess-personal.py) 
 is first used to remove personal information from the registration data.
 Then, a [Jupyter Notebook](pre-workshop-analysis.ipynb) is 
