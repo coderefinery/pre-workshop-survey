@@ -1,3 +1,7 @@
+
+
+[![DOI](https://zenodo.org/badge/149784296.svg)](https://zenodo.org/badge/latestdoi/149784296)
+
 # CodeRefinery pre-workshop survey
 
 Participants of CodeRefinery workshops are asked to fill a pre-workshop 
