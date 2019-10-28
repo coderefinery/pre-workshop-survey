@@ -1,6 +1,8 @@
 
 
 [![DOI](https://zenodo.org/badge/149784296.svg)](https://zenodo.org/badge/latestdoi/149784296)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/pre-workshop-survey/master)
+
 
 # CodeRefinery pre-workshop survey
 
