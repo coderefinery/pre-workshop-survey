@@ -1,596 +1,633 @@
 {
-  "sections": [
-    {
-      "content": [], 
-      "display_as_section": false, 
-      "type": "section"
-    }, 
-    {
-      "content": [
+    "sections": [
         {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "macOS"
-              }, 
-              {
-                "option": "Linux"
-              }, 
-              {
-                "option": "Windows"
-              }, 
-              {
-                "option": "Other"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "What is the operating system that you will use during the course (on your laptop)?", 
-          "type": "question"
-        }, 
+            "content": [],
+            "display_as_section": false,
+            "type": "section"
+        },
         {
-          "description": "", 
-          "field_data": {
-            "max_length": 50, 
-            "max_words": 50, 
-            "multiline": true
-          }, 
-          "field_type": "text", 
-          "is_required": false, 
-          "title": "Which version of operating system are you using? If your operating system is Linux, which distribution are you using? This will help us to create more targeted installation instructions.", 
-          "type": "question"
-        }, 
-        {
-          "description": "Choose as many as you like", 
-          "field_data": {
-            "max_choices": null, 
-            "min_choices": null, 
-            "options": [
-              {
-                "option": "I don't use version control and I don't know what it is"
-              }, 
-              {
-                "option": "I don't use version control but I know what it is"
-              }, 
-              {
-                "option": "I use version control, but I don't know which system"
-              }, 
-              {
-                "option": "Git"
-              }, 
-              {
-                "option": "Mercurial"
-              }, 
-              {
-                "option": "Subversion"
-              }, 
-              {
-                "option": "CVS"
-              }, 
-              {
-                "option": "Perforce"
-              }, 
-              {
-                "option": "Bazaar"
-              }, 
-              {
-                "option": "Other"
-              }
-            ]
-          }, 
-          "field_type": "multiselect", 
-          "is_required": true, 
-          "title": "Are you using version control? If yes, which?", 
-          "type": "question"
-        }, 
-        {
-          "description": "Choose as many as you like", 
-          "field_data": {
-            "max_choices": null, 
-            "min_choices": null, 
-            "options": [
-              {
-                "option": "Matlab"
-              }, 
-              {
-                "option": "R"
-              }, 
-              {
-                "option": "Python"
-              }, 
-              {
-                "option": "Perl"
-              }, 
-              {
-                "option": "C"
-              }, 
-              {
-                "option": "C++"
-              }, 
-              {
-                "option": "Fortran 77"
-              }, 
-              {
-                "option": "Fortran 90+"
-              }, 
-              {
-                "option": "Julia"
-              }, 
-              {
-                "option": "Haskell"
-              }, 
-              {
-                "option": "Go"
-              }, 
-              {
-                "option": "Rust"
-              },
-              {
-                "option": "Other"
-              }
-            ]
-          }, 
-          "field_type": "multiselect", 
-          "is_required": true, 
-          "title": "Which programming languages are you using or will you use in your projects?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "No and I don't know what it is"
-              }, 
-              {
-                "option": "No but I know what it is"
-              }, 
-              {
-                "option": "Yes"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Are you using automated testing in your programming project(s)?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "No and I don't know what it is"
-              }, 
-              {
-                "option": "No but I know what it is"
-              }, 
-              {
-                "option": "Yes"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Are you using code coverage analysis in your programming project(s)? These are tools and services like Gcov, Cobertura, Codecov, Coveralls, Code Climate, etc.", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "No and I don't know what it is"
-              }, 
-              {
-                "option": "No but I know what it is"
-              }, 
-              {
-                "option": "Yes"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Are you employing code review in your programming project(s)?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "No and I don't know what it is"
-              }, 
-              {
-                "option": "No but I know what it is"
-              }, 
-              {
-                "option": "Yes"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Are you using the Travis or Jenkins or GitLab CI continuous integration service in your programming project(s)?", 
-          "type": "question"
-        }, 
-        {
-          "description": "Choose as many as you like", 
-          "field_data": {
-            "max_choices": null, 
-            "min_choices": null, 
-            "options": [
-              {
-                "option": "No documentation"
-              }, 
-              {
-                "option": "Comments in the source code"
-              }, 
-              {
-                "option": "Doxygen"
-              }, 
-              {
-                "option": "Wiki"
-              }, 
-              {
-                "option": "RST/Sphinx"
-              }, 
-              {
-                "option": "readthedocs.org"
-              }, 
-              {
-                "option": "MkDocs"
-              }, 
-              {
-                "option": "PDF"
-              }, 
-              {
-                "option": "HMTL"
-              }, 
-              {
-                "option": "Markdown"
-              }, 
-              {
-                "option": "README files"
-              }, 
-              {
-                "option": "Other"
-              }
-            ]
-          }, 
-          "field_type": "multiselect", 
-          "is_required": true, 
-          "title": "How do you document your code?", 
-          "type": "question"
-        }, 
-        {
-          "description": "Choose as many as you like", 
-          "field_data": {
-            "max_choices": null, 
-            "min_choices": null, 
-            "options": [
-              {
-                "option": "I'm not using a web-based repository"
-              }, 
-              {
-                "option": "GitHub"
-              }, 
-              {
-                "option": "GitLab"
-              }, 
-              {
-                "option": "Bitbucket"
-              }, 
-              {
-                "option": "Redmine"
-              }, 
-              {
-                "option": "source.coderefinery.org"
-              }, 
-              {
-                "option": "Other"
-              }
-            ]
-          }, 
-          "field_type": "multiselect", 
-          "is_required": true, 
-          "title": "Are you using a web-based repository for your code(s)? Which ones?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "I have no programming experience"
-              }, 
-              {
-                "option": "Basic understanding and experience, I have looked through code and made minor adjustments"
-              }, 
-              {
-                "option": "I have written my own simple programs"
-              }, 
-              {
-                "option": "I have written many small codes and/or contributed to large complex software"
-              }, 
-              {
-                "option": "I am an expert"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "How would you describe your programming experience?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "I know what most of the following commands do: cd, ls, cat, mv, rm, chmod, man, mkdir, cp, ssh"
-              }, 
-              {
-                "option": "I do not know what most of these commands do"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "How comfortable are you with the Unix/Linux command line working in a terminal window?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "radio", 
-            "options": [
-              {
-                "option": "No and I don't know what it is"
-              }, 
-              {
-                "option": "I know what IDEs are but have not tried any"
-              }, 
-              {
-                "option": "I have tried an IDE but prefer text editors for my development"
-              }, 
-              {
-                "option": "Yes, I am using an IDE (such as Pyzo, NinjaIDE, PyCharm, Spyder, VisualStudio, CLion, Multi, RStudio, Eclipse, or other)"
-              }
-            ], 
-            "radio_display_type": "horizontal"
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Are you using an integrated development environment (IDE) for your programming project(s)?", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "display_type": "select", 
-            "options": [
-              {
-                "option": "Mathematics"
-              }, 
-              {
-                "option": "Computer and Information Sciences"
-              }, 
-              {
-                "option": "Physical Sciences"
-              }, 
-              {
-                "option": "Chemical Sciences"
-              }, 
-              {
-                "option": "Earth and Related Environmental Sciences"
-              }, 
-              {
-                "option": "Biological Sciences"
-              }, 
-              {
-                "option": "Other Natural Sciences"
-              }, 
-              {
-                "option": "Civil Engineering"
-              }, 
-              {
-                "option": "Electrical Engineering, Electronic Engineering, Information Engineering"
-              }, 
-              {
-                "option": "Mechanical Engineering"
-              }, 
-              {
-                "option": "Chemical Engineering"
-              }, 
-              {
-                "option": "Materials Engineering"
-              }, 
-              {
-                "option": "Medical Engineering"
-              }, 
-              {
-                "option": "Environmental Engineering"
-              }, 
-              {
-                "option": "Environmental Biotechnology"
-              }, 
-              {
-                "option": "Industrial Biotechnology"
-              }, 
-              {
-                "option": "Nano-technology"
-              }, 
-              {
-                "option": "Other Engineering and Technologies"
-              }, 
-              {
-                "option": "Basic Medicine"
-              }, 
-              {
-                "option": "Clinical Medicine"
-              }, 
-              {
-                "option": "Health Sciences"
-              }, 
-              {
-                "option": "Medical Biotechnology"
-              }, 
-              {
-                "option": "Other Medical and Health Sciences"
-              }, 
-              {
-                "option": "Agriculture, Forestry and Fisheries"
-              }, 
-              {
-                "option": "Animal and Dairy Science"
-              }, 
-              {
-                "option": "Veterinary Science"
-              }, 
-              {
-                "option": "Agricultural Biotechnology"
-              }, 
-              {
-                "option": "Other Agricultural Sciences"
-              }, 
-              {
-                "option": "Psychology"
-              }, 
-              {
-                "option": "Economics and Business"
-              }, 
-              {
-                "option": "Educational Sciences"
-              }, 
-              {
-                "option": "Sociology"
-              }, 
-              {
-                "option": "Law"
-              }, 
-              {
-                "option": "Political Science"
-              }, 
-              {
-                "option": "Social and Economic Geography"
-              }, 
-              {
-                "option": "Media and Communications"
-              }, 
-              {
-                "option": "Other Social Sciences"
-              }, 
-              {
-                "option": "History and Archaeology"
-              }, 
-              {
-                "option": "Languages and Literature"
-              }, 
-              {
-                "option": "Philosophy, Ethics and Religion"
-              }, 
-              {
-                "option": "Arts"
-              }, 
-              {
-                "option": "Other Humanities"
-              }, 
-              {
-                "option": "Other"
-              }
-            ], 
-            "radio_display_type": null
-          }, 
-          "field_type": "single_choice", 
-          "is_required": true, 
-          "title": "Please specify your main academic discipline. Please take the entry which is closest to your main field of study/work.", 
-          "type": "question"
-        }, 
-        {
-          "description": "We ask this because we are not sure which audience we get and we try to adapt the schedule to the audience. We will try to reduce topics that are not relevant to the audience and present more of the topics which are most interesting to the audience. Choose as many as you like", 
-          "field_data": {
-            "max_choices": null, 
-            "min_choices": null, 
-            "options": [
-              {
-                "option": "Introduction to version control"
-              }, 
-              {
-                "option": "Documentation"
-              }, 
-              {
-                "option": "Jupyter notebooks"
-              }, 
-              {
-                "option": "Collaborative distributed version control"
-              }, 
-              {
-                "option": "Managing complexity and modular code development"
-              }, 
-              {
-                "option": "Automated testing"
-              }, 
-              {
-                "option": "Building portable code with CMake"
-              }, 
-              {
-                "option": "Integrated development environments"
-              }, 
-              {
-                "option": "Archaeology with Git"
-              }, 
-              {
-                "option": "Git branch design"
-              }, 
-              {
-                "option": "Software licensing"
-              }, 
-              {
-                "option": "Reproducible research"
-              }
-            ]
-          }, 
-          "field_type": "multiselect", 
-          "is_required": false, 
-          "title": "Please select the sessions that you are most interested in.", 
-          "type": "question"
-        }, 
-        {
-          "description": "", 
-          "field_data": {
-            "max_length": null, 
-            "max_words": null, 
-            "multiline": true
-          }, 
-          "field_type": "text", 
-          "is_required": false, 
-          "title": "What do you expect to get from this course?", 
-          "type": "question"
+            "content": [
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "Undergraduate student"
+                            },
+                            {
+                                "option": "Graduate student"
+                            },
+                            {
+                                "option": "Postdoc"
+                            },
+                            {
+                                "option": "Researcher"
+                            },
+                            {
+                                "option": "Professor"
+                            },
+                            {
+                                "option": "Research software engineer"
+                            },
+                            {
+                                "option": "Industry"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "What is your current position?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "select",
+                        "options": [
+                            {
+                                "option": "Mathematics"
+                            },
+                            {
+                                "option": "Computer and Information Sciences"
+                            },
+                            {
+                                "option": "Physical Sciences"
+                            },
+                            {
+                                "option": "Chemical Sciences"
+                            },
+                            {
+                                "option": "Earth and Related Environmental Sciences"
+                            },
+                            {
+                                "option": "Biological Sciences"
+                            },
+                            {
+                                "option": "Other Natural Sciences"
+                            },
+                            {
+                                "option": "Civil Engineering"
+                            },
+                            {
+                                "option": "Electrical Engineering, Electronic Engineering, Information Engineering"
+                            },
+                            {
+                                "option": "Mechanical Engineering"
+                            },
+                            {
+                                "option": "Chemical Engineering"
+                            },
+                            {
+                                "option": "Materials Engineering"
+                            },
+                            {
+                                "option": "Medical Engineering"
+                            },
+                            {
+                                "option": "Environmental Engineering"
+                            },
+                            {
+                                "option": "Environmental Biotechnology"
+                            },
+                            {
+                                "option": "Industrial Biotechnology"
+                            },
+                            {
+                                "option": "Nano-technology"
+                            },
+                            {
+                                "option": "Other Engineering and Technologies"
+                            },
+                            {
+                                "option": "Basic Medicine"
+                            },
+                            {
+                                "option": "Clinical Medicine"
+                            },
+                            {
+                                "option": "Health Sciences"
+                            },
+                            {
+                                "option": "Medical Biotechnology"
+                            },
+                            {
+                                "option": "Other Medical and Health Sciences"
+                            },
+                            {
+                                "option": "Agriculture, Forestry and Fisheries"
+                            },
+                            {
+                                "option": "Animal and Dairy Science"
+                            },
+                            {
+                                "option": "Veterinary Science"
+                            },
+                            {
+                                "option": "Agricultural Biotechnology"
+                            },
+                            {
+                                "option": "Other Agricultural Sciences"
+                            },
+                            {
+                                "option": "Psychology"
+                            },
+                            {
+                                "option": "Economics and Business"
+                            },
+                            {
+                                "option": "Educational Sciences"
+                            },
+                            {
+                                "option": "Sociology"
+                            },
+                            {
+                                "option": "Law"
+                            },
+                            {
+                                "option": "Political Science"
+                            },
+                            {
+                                "option": "Social and Economic Geography"
+                            },
+                            {
+                                "option": "Media and Communications"
+                            },
+                            {
+                                "option": "Other Social Sciences"
+                            },
+                            {
+                                "option": "History and Archaeology"
+                            },
+                            {
+                                "option": "Languages and Literature"
+                            },
+                            {
+                                "option": "Philosophy, Ethics and Religion"
+                            },
+                            {
+                                "option": "Arts"
+                            },
+                            {
+                                "option": "Other Humanities"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ],
+                        "radio_display_type": null
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Please specify your main academic discipline. Please take the entry which is closest to your main field of study/work.",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "macOS"
+                            },
+                            {
+                                "option": "Linux"
+                            },
+                            {
+                                "option": "Windows"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "What is the operating system that you will use during the course (on your laptop)?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "max_length": 50,
+                        "max_words": 50,
+                        "multiline": true
+                    },
+                    "field_type": "text",
+                    "is_required": false,
+                    "title": "Which version of operating system are you using? If your operating system is Linux, which distribution are you using? This will help us to create more targeted installation instructions.",
+                    "type": "question"
+                },
+                {
+                    "description": "Choose as many as you like",
+                    "field_data": {
+                        "max_choices": null,
+                        "min_choices": null,
+                        "options": [
+                            {
+                                "option": "I don't use version control and I don't know what it is"
+                            },
+                            {
+                                "option": "I don't use version control but I know what it is"
+                            },
+                            {
+                                "option": "I use version control, but I don't know which system"
+                            },
+                            {
+                                "option": "Git"
+                            },
+                            {
+                                "option": "Mercurial"
+                            },
+                            {
+                                "option": "Subversion"
+                            },
+                            {
+                                "option": "CVS"
+                            },
+                            {
+                                "option": "Perforce"
+                            },
+                            {
+                                "option": "Bazaar"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ]
+                    },
+                    "field_type": "multiselect",
+                    "is_required": true,
+                    "title": "Are you using version control? If yes, which?",
+                    "type": "question"
+                },
+                {
+                    "description": "Choose as many as you like",
+                    "field_data": {
+                        "max_choices": null,
+                        "min_choices": null,
+                        "options": [
+                            {
+                                "option": "Matlab"
+                            },
+                            {
+                                "option": "R"
+                            },
+                            {
+                                "option": "Python"
+                            },
+                            {
+                                "option": "Perl"
+                            },
+                            {
+                                "option": "C"
+                            },
+                            {
+                                "option": "C++"
+                            },
+                            {
+                                "option": "Fortran 77"
+                            },
+                            {
+                                "option": "Fortran 90+"
+                            },
+                            {
+                                "option": "Julia"
+                            },
+                            {
+                                "option": "Haskell"
+                            },
+                            {
+                                "option": "Go"
+                            },
+                            {
+                                "option": "Rust"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ]
+                    },
+                    "field_type": "multiselect",
+                    "is_required": true,
+                    "title": "Which programming languages are you using or will you use in your projects?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "No and I don't know what it is"
+                            },
+                            {
+                                "option": "No but I know what it is"
+                            },
+                            {
+                                "option": "Yes"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Do you write tests (e.g. unit tests, integration tests, ...) in your programming project(s)?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "No and I don't know what it is"
+                            },
+                            {
+                                "option": "No but I know what it is"
+                            },
+                            {
+                                "option": "Yes"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Are you using automated testing platforms (e.g. Travis CI, Jenkins or GitLab CI) in your programming project(s)?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "No and I don't know what it is"
+                            },
+                            {
+                                "option": "No but I know what it is"
+                            },
+                            {
+                                "option": "Yes"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Are you employing code review in your programming project(s)?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "No and I don't know what it is"
+                            },
+                            {
+                                "option": "No but I know what it is"
+                            },
+                            {
+                                "option": "Yes"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Are you using Jupyter Notebooks in your programming project(s)?",
+                    "type": "question"
+                },
+                {
+                    "description": "Choose as many as you like",
+                    "field_data": {
+                        "max_choices": null,
+                        "min_choices": null,
+                        "options": [
+                            {
+                                "option": "No documentation"
+                            },
+                            {
+                                "option": "Comments in the source code"
+                            },
+                            {
+                                "option": "Doxygen"
+                            },
+                            {
+                                "option": "Wiki"
+                            },
+                            {
+                                "option": "RST/Sphinx"
+                            },
+                            {
+                                "option": "readthedocs.org"
+                            },
+                            {
+                                "option": "MkDocs"
+                            },
+                            {
+                                "option": "PDF"
+                            },
+                            {
+                                "option": "HMTL"
+                            },
+                            {
+                                "option": "Markdown"
+                            },
+                            {
+                                "option": "README files"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ]
+                    },
+                    "field_type": "multiselect",
+                    "is_required": true,
+                    "title": "How do you document your code?",
+                    "type": "question"
+                },
+                {
+                    "description": "Choose as many as you like",
+                    "field_data": {
+                        "max_choices": null,
+                        "min_choices": null,
+                        "options": [
+                            {
+                                "option": "I'm not using a web-based repository"
+                            },
+                            {
+                                "option": "GitHub"
+                            },
+                            {
+                                "option": "GitLab"
+                            },
+                            {
+                                "option": "Bitbucket"
+                            },
+                            {
+                                "option": "Redmine"
+                            },
+                            {
+                                "option": "source.coderefinery.org"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ]
+                    },
+                    "field_type": "multiselect",
+                    "is_required": true,
+                    "title": "Are you using a web-based repository for your code(s)? Which ones?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "I have no programming experience"
+                            },
+                            {
+                                "option": "Basic understanding and experience, I have looked through code and made minor adjustments"
+                            },
+                            {
+                                "option": "I have written my own simple programs"
+                            },
+                            {
+                                "option": "I have written many small codes and/or contributed to large complex software"
+                            },
+                            {
+                                "option": "I am an expert"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "How would you describe your programming experience?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "I know what most of the following commands do: cd, ls, cat, mv, rm, chmod, man, mkdir, cp, ssh"
+                            },
+                            {
+                                "option": "I do not know what most of these commands do"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "How comfortable are you with the Unix/Linux command line working in a terminal window?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "No and I don't know what it is"
+                            },
+                            {
+                                "option": "I know what IDEs are but have not tried any"
+                            },
+                            {
+                                "option": "I have tried an IDE but prefer text editors for my development"
+                            },
+                            {
+                                "option": "Yes, I am using an IDE (such as Pyzo, NinjaIDE, PyCharm, Spyder, VisualStudio, CLion, Multi, RStudio, Eclipse, or other)"
+                            }
+                        ],
+                        "radio_display_type": "horizontal"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": true,
+                    "title": "Are you using an integrated development environment (IDE) for your programming project(s)?",
+                    "type": "question"
+                },
+                {
+                    "description": "We ask this because we are not sure which audience we get and we try to adapt the schedule to the audience. We will try to reduce topics that are not relevant to the audience and present more of the topics which are most interesting to the audience. Choose as many as you like",
+                    "field_data": {
+                        "max_choices": null,
+                        "min_choices": null,
+                        "options": [
+                            {
+                                "option": "Introduction to version control"
+                            },
+                            {
+                                "option": "Documentation"
+                            },
+                            {
+                                "option": "Jupyter notebooks"
+                            },
+                            {
+                                "option": "Collaborative distributed version control"
+                            },
+                            {
+                                "option": "Managing complexity and modular code development"
+                            },
+                            {
+                                "option": "Automated testing"
+                            },
+                            {
+                                "option": "Building portable code with CMake"
+                            },
+                            {
+                                "option": "Integrated development environments"
+                            },
+                            {
+                                "option": "Archaeology with Git"
+                            },
+                            {
+                                "option": "Git branch design"
+                            },
+                            {
+                                "option": "Software licensing"
+                            },
+                            {
+                                "option": "Reproducible research"
+                            }
+                        ]
+                    },
+                    "field_type": "multiselect",
+                    "is_required": false,
+                    "title": "Please select the sessions that you are most interested in.",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
+                        "max_length": null,
+                        "max_words": null,
+                        "multiline": true
+                    },
+                    "field_type": "text",
+                    "is_required": false,
+                    "title": "What do you expect to get from this course?",
+                    "type": "question"
+                }
+            ],
+            "description": "",
+            "display_as_section": true,
+            "title": "Pre-workshop survey",
+            "type": "section"
         }
-      ], 
-      "description": "", 
-      "display_as_section": true, 
-      "title": "Pre-workshop survey", 
-      "type": "section"
-    }
-  ], 
-  "version": 1
+    ],
+    "version": 1
 }
