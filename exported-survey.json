@@ -613,6 +613,37 @@
                 {
                     "description": "",
                     "field_data": {
+                        "display_type": "radio",
+                        "options": [
+                            {
+                                "option": "From friend/colleague"
+                            },
+                            {
+                                "option": "From advisor/supervisor"
+                            },
+                            {
+                                "option": "From newsletter or university web site"
+                            },
+                            {
+                                "option": "From mailing list"
+                            },
+                            {
+                                "option": "Social media (e.g. Twitter, LinkedIn, Facebook etc.)"
+                            },
+                            {
+                                "option": "Other"
+                            }
+                        ],
+                        "radio_display_type": "vertical"
+                    },
+                    "field_type": "single_choice",
+                    "is_required": false,
+                    "title": "Where did you find out this CodeRefinery workshop?",
+                    "type": "question"
+                },
+                {
+                    "description": "",
+                    "field_data": {
                         "max_length": null,
                         "max_words": null,
                         "multiline": true
