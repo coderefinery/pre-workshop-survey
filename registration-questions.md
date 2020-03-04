@@ -75,15 +75,6 @@
   - README files
   - Other
 
-- Which **build tool(s)** are you using or will you use in your project(s)? (Choose as many as you like)
-  - CMake
-  - Makefiles
-  - SCons
-  - Autotools
-  - None, but I want to learn
-  - Not relevant to my project(s)
-  - Other
-
 - Are you using a **web-based repository** for your code(s)? Which ones? (Choose as many as you like)
   - I'm not using a web-based repository
   - GitHub

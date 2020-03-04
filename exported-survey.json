@@ -586,15 +586,6 @@
                                 "option": "Automated testing"
                             },
                             {
-                                "option": "Building portable code with CMake"
-                            },
-                            {
-                                "option": "Integrated development environments"
-                            },
-                            {
-                                "option": "Archaeology with Git"
-                            },
-                            {
                                 "option": "Git branch design"
                             },
                             {
