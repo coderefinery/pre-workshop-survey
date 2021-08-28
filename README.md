@@ -12,12 +12,13 @@ on previous experience with various tools and programming practices.
 The survey includes the questions [listed here](questions.md).
 
 
-## License conditions
-This work is licensed under CC 4.0 BY, see the file LICENSE
+## License and attribution
 
-### Attribution
+This work is licensed under CC 4.0 BY, see the [LICENSE](LICENSE) file.
+
 When using the data from the CodeRefinery post-workshop survey, please state following attribution:
-"Post-workshop survey" by [CodeRefinery](https://coderefinery.org) is licensed under CC BY 4.0
+"Post-workshop survey" by [CodeRefinery](https://coderefinery.org), licensed under CC BY 4.0.
+
 
 ## Processing steps
 [A script](preprocess-personal.py) 
