@@ -26,11 +26,6 @@ When using the data from the CodeRefinery post-workshop survey, please state fol
 The main results are reported in the figures below.
 
 
-#### Gender
-
-![Gender](img/gender.png)
-
-
 #### Scientific discipline
 
 ![Gender](img/scientific-discipline.png)
@@ -64,3 +59,8 @@ The main results are reported in the figures below.
 
 #### Code review
 ![documentation](img/code-review.png)
+
+
+## Questions which we have not analyzed (yet)
+
+- Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
