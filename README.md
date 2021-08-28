@@ -64,3 +64,4 @@ The main results are reported in the figures below.
 ## Questions which we have not analyzed (yet)
 
 - Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
+- Distribution of responses over time
