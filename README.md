@@ -17,8 +17,8 @@ They are also recorded in the [questions/survey.json](questions/survey.json) fil
 
 This work is licensed under CC 4.0 BY, see the [LICENSE](LICENSE) file.
 
-When using the data from the CodeRefinery post-workshop survey, please state following attribution:
-"Post-workshop survey" by [CodeRefinery](https://coderefinery.org), licensed under CC BY 4.0.
+When using the data from the CodeRefinery pre-workshop survey, please state following attribution:
+"Pre-workshop survey" by [CodeRefinery](https://coderefinery.org), licensed under CC BY 4.0.
 
 
 ## Survey results
