@@ -537,31 +537,6 @@
                     "type": "question"
                 },
                 {
-                    "description": "",
-                    "field_data": {
-                        "display_type": "radio",
-                        "options": [
-                            {
-                                "option": "No and I don't know what it is"
-                            },
-                            {
-                                "option": "I know what IDEs are but have not tried any"
-                            },
-                            {
-                                "option": "I have tried an IDE but prefer text editors for my development"
-                            },
-                            {
-                                "option": "Yes, I am using an IDE (such as Pyzo, NinjaIDE, PyCharm, Spyder, VisualStudio, CLion, Multi, RStudio, Eclipse, or other)"
-                            }
-                        ],
-                        "radio_display_type": "horizontal"
-                    },
-                    "field_type": "single_choice",
-                    "is_required": true,
-                    "title": "Are you using an integrated development environment (IDE) for your programming project(s)?",
-                    "type": "question"
-                },
-                {
                     "description": "We ask this because we are not sure which audience we get and we try to adapt the schedule to the audience. We will try to reduce topics that are not relevant to the audience and present more of the topics which are most interesting to the audience. Choose as many as you like",
                     "field_data": {
                         "max_choices": null,

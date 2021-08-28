@@ -9,7 +9,8 @@ Participants of CodeRefinery workshops are asked to fill a pre-workshop
 survey before attending the workshop. In this survey we collect information
 on previous experience with various tools and programming practices.
 
-The survey includes the questions [listed here](questions.md).
+The survey includes the questions [listed here](questions/questions.md).
+They are also recorded in the [questions/survey.json](questions/survey.json) file.
 
 
 ## License and attribution
