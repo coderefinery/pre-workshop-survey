@@ -34,36 +34,63 @@ When using the data from the CodeRefinery pre-workshop survey, please state foll
 The main results are reported in the figures below.
 
 
-#### Scientific discipline
+### Job title/ position/ occupation
 
-![Gender](img/scientific-discipline.png)
-
-
-#### Operating system
-
-![OS](img/operating-system.png)
+![Position](figures/position.png)
 
 
-#### Version control
+### Academic discipline
 
-![VCS](img/version-control.png)
-
-
-#### Programming experience
-![experience](img/programming-experience.png)
+![Academic discipline](figures/discipline.png)
 
 
-#### Programming languages
-![languages](img/languages.png)
+### Operating system
+
+![Operating system](figures/os.png)
 
 
-#### Documentation
-![documentation](img/documentation.png)
+### Version control
+
+![Version control](figures/version-control.png)
 
 
-#### Automated testing
-![documentation](img/automated-testing.png)
+### Programming languages
+
+![Programming languages](figures/languages.png)
 
 
-#### Code review
-![documentation](img/code-review.png)
+### Tests and automated testing
+
+![Tests](figures/tests.png)
+
+![Automated testing](figures/automated-testing.png)
+
+
+### Code review
+
+![Code review](figures/code-review.png)
+
+
+### Jupyter
+
+![Jupyter](figures/jupyter.png)
+
+
+### Documentation
+
+![Documentation](figures/documentation.png)
+
+
+### Web-based collaborative tools
+
+![Web-based collaborative tools](figures/web-tools.png)
+
+
+### Programming experience
+
+![Programming experience](figures/programming-experience.png)
+
+
+### How did you find out about the project?
+
+![How did you find out about the project?](figures/where.png)
