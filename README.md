@@ -21,12 +21,13 @@ When using the data from the CodeRefinery pre-workshop survey, please state foll
 "Pre-workshop survey" by [CodeRefinery](https://coderefinery.org), licensed under CC BY 4.0.
 
 
-## Questions which we have not analyzed (yet)
+## Questions/answers which we have not analyzed (yet)
 
 - Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
 - Distribution of responses over time
 - Joing plot: academic disciplines and positions
 - For most questions old Typeform answers are not included in the answers since the CSV form is inconvenient and I ran out of time
+- Data below `indico/20**/others` has not been analyzed
 
 
 ## Survey results
