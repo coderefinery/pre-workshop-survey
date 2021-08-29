@@ -21,6 +21,14 @@ When using the data from the CodeRefinery pre-workshop survey, please state foll
 "Pre-workshop survey" by [CodeRefinery](https://coderefinery.org), licensed under CC BY 4.0.
 
 
+## Questions which we have not analyzed (yet)
+
+- Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
+- Distribution of responses over time
+- Joing plot: academic disciplines and positions
+- For most questions old Typeform answers are not included in the answers since the CSV form is inconvenient and I ran out of time
+
+
 ## Survey results
 
 The main results are reported in the figures below.
@@ -59,11 +67,3 @@ The main results are reported in the figures below.
 
 #### Code review
 ![documentation](img/code-review.png)
-
-
-## Questions which we have not analyzed (yet)
-
-- Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
-- Distribution of responses over time
-- Joing plot: academic disciplines and positions
-- For most questions old Typeform answers are not included in the answers since the CSV form is inconvenient and I ran out of time
