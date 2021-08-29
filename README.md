@@ -65,3 +65,5 @@ The main results are reported in the figures below.
 
 - Gender: we used to ask this in the first year(s) but we asked it in a too binary way and at some point we stopped asking this question
 - Distribution of responses over time
+- Joing plot: academic disciplines and positions
+- For most questions old Typeform answers are not included in the answers since the CSV form is inconvenient and I ran out of time
