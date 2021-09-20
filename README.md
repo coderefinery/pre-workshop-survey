@@ -33,6 +33,7 @@ When using the data from the CodeRefinery pre-workshop survey, please state foll
 ## Survey results
 
 The main results are reported in the figures below.
+For results based on online-workshops participants, go to survey-analysis.ipynb. 
 
 
 ### Job title/ position/ occupation
