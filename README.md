@@ -5,6 +5,8 @@
 
 # CodeRefinery pre-workshop survey
 
+> Post workshop survey was run before every CodeRefinery workshop until March 2022.
+
 Participants of CodeRefinery workshops are asked to fill a pre-workshop
 survey before attending the workshop. In this survey we collect information
 on previous experience with various tools and programming practices.
